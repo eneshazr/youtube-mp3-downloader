@@ -4,7 +4,8 @@ Python Tkinter ve youtube-dl modüllerini kullanarak, Youtube'dan ses dosyası(m
 
 ## Video
 
-![image](https://i.ytimg.com/an_webp/omkzEtJxm3I/mqdefault_6s.webp?du=3000&sqp=CM7dzYUG&rs=AOn4CLAEmr6WsyD_VZ8oXoiXK9O_8hSyTw)
+![image](https://user-images.githubusercontent.com/84662757/123137086-4aaf1500-d45c-11eb-859d-dba4ac10d6d9.png)
+
 
 https://www.youtube.com/watch?v=omkzEtJxm3I
 
